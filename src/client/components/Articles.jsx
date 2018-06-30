@@ -6,7 +6,7 @@ class Articles extends Component {
         super(props);
         this.state = {
             articles: [],
-            fetchError: false
+            fetchError: false,
         };
     }
 
