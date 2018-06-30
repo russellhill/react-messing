@@ -6,19 +6,32 @@ class Articles extends Component {
         super(props);
         this.state = {
             articles: [],
+            fetchError: false
         };
     }
 
     componentDidMount() {
-        fetch('http://localhost:3000/articles')
+        fetch('/articles')
             .then(results => results.json())
             .then((articles) => {
                 this.setState({ articles });
+            })
+            .catch(() => {
+                this.setState({ fetchError: true });
             });
     }
 
     render() {
         const { articles } = this.state;
+        const { fetchError } = this.state;
+
+        if (fetchError) {
+            return (
+                <div className="error">
+                    Error fetching data :(
+                </div>
+            );
+        }
         return (
             <ul className="cards">
                 {articles.map(article => <Article article={article} />)}

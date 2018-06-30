@@ -17,6 +17,10 @@ app.get('/articles', (req, res) => {
         json: true,
     };
 
+    // fetch both the authors and the articles at the same time
+    // then process the articles by looking up the author details
+    // and replace the existing article author with the full author
+    // details
     Promise.all([request(authorOptions), request(articleOptions)])
         .then((results) => {
             const authorData = results[0];
