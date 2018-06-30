@@ -7,7 +7,13 @@ class Article extends Component {
             <li className="cards__item">
                 <div className="card">
                     <div className="card__image">
-                        <img src={article.Image['small-phone']} srcSet={`${article.Image['small-phone']} 640w, ${article.Image['medium-phone']} 960w, ${article.Image.tablet} 1440w, ${article.Image.tablet} 1600w`} sizes="(max-width: 640px) 640px, (max-width: 960px) 960px, (max-width: 1440px) 1440px, 1600px" alt={article.Title} />
+                        <picture>
+                            <source media="(max-width: 640px)" srcSet={article.Image['small-phone']} />
+                            <source media="(max-width: 960px)" srcSet={article.Image['medium-phone']} />
+                            <source media="(max-width: 1440px)" srcSet={article.Image.tablet} />
+                            <source media="(max-width: 1600px)" srcSet={article.Image.desktop} />
+                            <img src={article.Image.desktop} alt={article.title} />
+                        </picture>
                     </div>
                     <div className="card__content">
                         <div className="card__title">
