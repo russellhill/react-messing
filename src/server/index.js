@@ -5,7 +5,7 @@ const path = require('path');
 
 app.use(express.static(path.join(__dirname, './../../')));
 
-app.get('/articles', (req, res) => {
+app.get('/:version/articles', (req, res) => {
     const authorOptions = {
         method: 'GET',
         uri: 'http://localhost:4567/authors',

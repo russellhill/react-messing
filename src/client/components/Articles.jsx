@@ -11,7 +11,7 @@ class Articles extends Component {
     }
 
     componentDidMount() {
-        fetch('/articles')
+        fetch('/1/articles')
             .then(results => results.json())
             .then((articles) => {
                 this.setState({ articles });

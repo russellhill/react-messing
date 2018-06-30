@@ -17,14 +17,16 @@ class Article extends Component {
                     </div>
                     <div className="card__content">
                         <div className="card__title">
-                            {article.Title}<br/>
-                            <span className="card__title--author">
+                            {article.Title}
+                            <p className="card__title--author">
                                 by {article.Author.Name} ({article.Author.JobTitle})
-                            </span>
+                            </p>
                         </div>
                         <p className="card__text">
                             <span className="card__text--snippet">
-                                <blockquote>{article.SnippetText}</blockquote>
+                                <blockquote>
+                                    {article.SnippetText}
+                                </blockquote>
                             </span>
                             <div dangerouslySetInnerHTML={{ __html: article.Copy }} />
                         </p>
