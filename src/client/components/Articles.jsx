@@ -20,9 +20,9 @@ class Articles extends Component {
     render() {
         const { articles } = this.state;
         return (
-            <div>
+            <ul className="cards">
                 {articles.map(article => <Article article={article} />)}
-            </div>
+            </ul>
         );
     }
 }
