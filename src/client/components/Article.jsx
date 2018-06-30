@@ -23,10 +23,11 @@ class Article extends Component {
                             </span>
                         </div>
                         <p className="card__text">
-                            {article.SnippetText}<br/>
+                            <span className="card__text--snippet">
+                                <blockquote>{article.SnippetText}</blockquote>
+                            </span>
                             <div dangerouslySetInnerHTML={{ __html: article.Copy }} />
                         </p>
-                        <button className="btn btn--block card__btn">More</button>
                     </div>
                 </div>
             </li>
