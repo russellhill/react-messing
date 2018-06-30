@@ -1,0 +1,99 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "Taxonomy": "community",
+            "Published": "2018-05-11 00:00:00Z",
+            "Author": "clement-hodge",
+            "Name": "CommunitySpotlightRichard",
+            "Title": "Community Spotlight - Richard",
+            "SnippetText": "Community Spotlights return with a peek into the world of Deckhand Richard!",
+            "Copy": "<p>We’re not sure where the time has gone but here we are, a month after the launch of <i>Sea of Thieves</i> and it feels like just yesterday we were harping on about Closed Betas and Scale Tests. In that time we’ve been solving launch issues, plugging away at content updates and generally getting to know our community, which is bigger now than it’s ever been!</p>\n\n<p>Of course, that means even more players to shine our spotlight on. Today we catch up with another one of the illustrious Deckhands, Richard (otherwise known as Zoream), who’s here to tell us more about himself and his role in the community.</p>\n\n<p><b></b></p>",
+            "Image": {
+                "small-phone": "http://via.placeholder.com/640x510",
+                "medium-phone": "http://via.placeholder.com/960x720",
+                "tablet": "http://via.placeholder.com/1440x840",
+                "desktop": "http://via.placeholder.com/1600x792"
+            }
+        }, {
+            "id": 2,
+            "Taxonomy": "announcements",
+            "Published": "2018-05-21 00:00:00Z",
+            "Author": "maximilian-dixon",
+            "Name": "HungeringDeepTrailer",
+            "Title": "Find Out What Lies Hidden in The Hungering Deep",
+            "SnippetText": "A battle-scarred old sea dog shares stories of things to come...",
+            "Copy": "<p><strong>Update May 29th:</strong> <em>The Hungering Deep</em> is now live. Set sail for a new challenge! Or, if you're the kind of pirate who likes to be prepared, make your way to our <a href=\"https://www.seaofthieves.com/the-hungering-deep\">dedicated page</a> for an overview of what's included and read through the <a href=\"https://www.seaofthieves.com/release-notes\">release notes</a> before venturing into <em>Sea of Thieves</em> to experience it for yourself...</p>\n\n<p><strong>Original story:</strong> </p>\n\n<p>More dangers are coming to the Sea of Thieves... and with them, more opportunities for crews who have no concept of fear and a hankering for hard-won spoils!</p>\n\n<p>As revealed in our <a href=\"https://www.seaofthieves.com/news/sea-of-thieves-content-plans\">Content Plans</a> announcement shortly after launch, <em>The Hungering Deep</em> will kick off a run of free <em>Sea of Thieves</em> content updates throughout the year. Last week offered the first real hints at what might be surfacing in that update.</p>\n\n<p>In a trailer that gave the spotlight to Merrick – survivor of some salty escapades himself – a stream of tales, claims and cave paintings stirred up glimpses of what's coming on May 29th.</p>",
+            "Image": {
+                "small-phone": "http://via.placeholder.com/640x510",
+                "medium-phone": "http://via.placeholder.com/960x720",
+                "tablet": "http://via.placeholder.com/1440x840",
+                "desktop": "http://via.placeholder.com/1600x792"
+            }
+        }, {
+            "id": 3,
+            "Taxonomy": "video-updates",
+            "Published": "2018-06-06 00:00:00Z",
+            "Author": "kim-ireland",
+            "Name": "TavernTunesSummonTheMegalodon",
+            "Title": "Tavern Tunes - Summon The Megalodon",
+            "SnippetText": "Merrick's shanty has gone down a treat! Have a listen and read about its creation here.",
+            "Copy": "<p><i>The Hungering Deep</i> arrived last week as weathered old pirate Merrick staggered into the fray on wooden legs, telling tantalising tales and drinking generous helpings of grog. When the time was right, he began playing a brand new shanty for all to hear.</p>\n\n<p>If you need to give your ears a little refresher, we’ve now added that shanty to our Tavern Tunes playlist. We even managed to corner our magical Music Director Robin Beanland for some insights into its creation…</p>\n\n<p><em>“When I first started to compose the shanty for The Hungering Deep, I remember sitting in my office singing ‘summon the Megalodon’ in a daft voice. I then started to play along on my piano which was making me chuckle a fair bit so I decided to </em><a href=\"https://twitter.com/TheRealBeano/status/1002535743896551424\"><em>go with it</em></a><em>!</em></p>\n\n<p><em>“I really love the idea of pirates carrying this jaunty shanty across the ocean and then at a certain point the music changes into this dark, theatrical introduction to the Meg encounter.”</em></p>",
+            "Image": {
+                "small-phone": "http://via.placeholder.com/640x510",
+                "medium-phone": "http://via.placeholder.com/960x720",
+                "tablet": "http://via.placeholder.com/1440x840",
+                "desktop": "http://via.placeholder.com/1600x792"
+            }
+        }, {
+            "id": 4,
+            "Taxonomy": "video-updates",
+            "Published": "2018-06-11 00:00:00Z",
+            "Author": "maximilian-dixon",
+            "Name": "E32018Trailer",
+            "Title": "Watch the Sea of Thieves E3 2018 Trailer",
+            "SnippetText": "Imposing some Order (of Souls) on the annual E3 chaos",
+            "Copy": "<p>The game might be out, but that doesn't mean we've run out of things to show you at big global gaming shows. We've been doing it for so long now that it'd feel wrong not to turn up and show <em>something</em>. Thankfully, the <em>Sea of Thieves</em> team is forging ahead with development on those next content updates coming down the line.</p>\n\n<p>It's no secret that the next few months will address your hungering for post-<em>Hungering Deep</em> challenges, foes and features: first with the arrival of <em>Cursed Sails</em> in July, then sightings of <em>Forsaken Shores</em> in September.</p>\n\n<p>So for our E3 2018 trailer we were faced with the need to strike a balance. Drop some huge hints without directly spoiling too much of what lies ahead, just like we were careful not to let slip the word 'megalodon' before the launch of <em>The Hungering Deep</em>. In trying to translate this to a form that would work within <em>Sea of Thieves'</em> world, we kept coming back to the shadowy seers of the Order of Souls. Surely they were the ones to give us a glimpse into the future?</p>",
+            "Image": {
+                "small-phone": "http://via.placeholder.com/640x510",
+                "medium-phone": "http://via.placeholder.com/960x720",
+                "tablet": "http://via.placeholder.com/1440x840",
+                "desktop": "http://via.placeholder.com/1600x792"
+            }
+        }, {
+            "id": 5,
+            "Taxonomy": "announcements",
+            "Published": "2018-06-18 00:00:00Z",
+            "Author": "sid-jordan",
+            "Name": "BilgeRatAdventures",
+            "Title": "Bilge Rat Adventures #1",
+            "SnippetText": "Find out what you can expect on the first of our Bilge Rat Adventures!",
+            "Copy": "<p>Ready for a new challenge, pirates? You're in luck because the Bilge Rats have just sailed into the Sea of Thieves! <a href=\"https://www.seaofthieves.com/game/the-bilge-rats\" target=\"_blank\">But who are the Bilge Rats and what do they offer, we hear you ask?</a> Well, apart from exploration and adventure, they also bring you and your crew the chance to earn Bilge Rat Doubloons, which can be redeemed for exclusive rewards.</p>\n\n<p>As for the exploration and adventure, the Bilge Rats themselves have gone out to some of the remotest locations within the Sea of Thieves and built what they're calling the Skeleton Thrones. They're now encouraging would-be challengers to find these Thrones out there in far-flung parts of the world.</p>",
+            "Image": {
+                "small-phone": "http://via.placeholder.com/640x510",
+                "medium-phone": "http://via.placeholder.com/960x720",
+                "tablet": "http://via.placeholder.com/1440x840",
+                "desktop": "http://via.placeholder.com/1600x792"
+            }
+        }
+    ],
+    "authors": [
+        {
+            "id": "clement-hodge",
+            "Name": "Clement Hodge",
+            "JobTitle": "Community Manager "
+        }, {
+            "id": "maximilian-dixon",
+            "Name": "Maximilian Dixon",
+            "JobTitle": "Online Content Lead"
+        }, {
+            "id": "kim-ireland",
+            "Name": "Kim Ireland",
+            "JobTitle": "Community Manager"
+        }, {
+            "id": "sid-jordan",
+            "Name": "Sid Jordan",
+            "JobTitle": "Community Management Intern"
+        }
+    ]
+}
