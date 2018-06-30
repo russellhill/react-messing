@@ -1,7 +1,7 @@
 {
-  "name": "rare",
+  "name": "reactmessing",
   "version": "1.0.0",
-  "description": "",
+  "description": "Do some messing around with React",
   "main": "index.js",
   "scripts": {
     "lint": "eslint",
