@@ -42,11 +42,17 @@ img {
 .cards__item {
     display: flex;
     padding: 1rem;
+    @media(min-width: 20rem) {
+        width: 100%;
+    }
     @media(min-width: 40rem) {
         width: 50%;
     }
-    @media(min-width: 56rem) {
+    @media(min-width: 60rem) {
         width: 33.3333%;
+    }
+    @media(min-width: 90rem) {
+        width: 25%;
     }
 }
 
