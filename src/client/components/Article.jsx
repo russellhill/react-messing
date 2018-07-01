@@ -12,7 +12,7 @@ class Article extends Component {
                             <source media="(max-width: 960px)" srcSet={article.Image['medium-phone']} />
                             <source media="(max-width: 1440px)" srcSet={article.Image.tablet} />
                             <source media="(max-width: 1600px)" srcSet={article.Image.desktop} />
-                            <img src={article.Image.desktop} alt={article.title} />
+                            <img src={article.Image.desktop} alt={article.Title} />
                         </picture>
                     </div>
                     <div className="card__content">

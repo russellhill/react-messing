@@ -7,7 +7,7 @@
     "lint": "eslint",
     "start": "nodemon src/server/index.js & json-server db.json --port 4567 --nc",
     "webpack": "./node_modules/.bin/webpack -w",
-    "test": "mocha --compilers babel-core/register ./test/*test.js"
+    "test": "mocha --compilers babel-core/register ./test/*test.jsx"
   },
   "keywords": [],
   "author": "",
@@ -29,6 +29,7 @@
     "chai": "^4.1.2",
     "css-loader": "^0.28.11",
     "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^17.0.0",
     "eslint-plugin-import": "^2.13.0",
