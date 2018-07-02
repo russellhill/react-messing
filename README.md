@@ -19,7 +19,7 @@ In one session:
 
 * clone the repo
 * `cd` into the directory
-* `npm init`
+* `npm install`
 * `npm start`
 
 (the Node process and the dummy JSON db server will start)
