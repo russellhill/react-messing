@@ -7,7 +7,7 @@
     "lint": "eslint",
     "start": "nodemon src/server/index.js & json-server db.json --port 4567 --nc",
     "webpack": "./node_modules/.bin/webpack -w",
-    "test": "mocha --compilers babel-core/register ./test/*test.jsx"
+    "test": "mocha --compilers babel-core/register --require jsdom-global/register ./test/*test.jsx"
   },
   "keywords": [],
   "author": "",
@@ -21,6 +21,7 @@
     "request-promise": "^4.2.2"
   },
   "devDependencies": {
+    "axe-core": "^3.4.1",
     "babel": "^6.23.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
@@ -35,6 +36,8 @@
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.10.0",
+    "jsdom": "^16.0.1",
+    "jsdom-global": "^3.0.2",
     "mocha": "^5.2.0",
     "node-sass": "^4.9.0",
     "nodemon": "^1.17.5",
